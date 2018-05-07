@@ -1,0 +1,44 @@
+ section {
+   width: 90%;
+   display: flex;
+   align-content: center;
+   margin: auto;
+   flex-direction: column;
+ }
+ 
+ 
+ hr {
+    display: flex;
+    justify-content: flex-start;
+   
+}
+
+.line_arrow{
+      color: #ccac5b;
+      width: 50px;
+     margin: auto;
+
+  }
+.go_back {
+  color: #ccac5b;
+  font-size: 10px;
+}
+a {
+  text-decoration: none;
+}
+
+.logo {
+  display: flex;
+justify-content: center;
+}
+.header{
+  background-color:#0f1112;
+}
+
+.counter {
+  background-color:#ffffff;
+}
+
+.picture{
+  background-color: blue;
+}
